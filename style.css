@@ -40,3 +40,10 @@ button {
   50% { transform: scale(1.2); }
   100% { transform: scale(1); }
 }
+body {
+  background-image: url("assets/kh3.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
