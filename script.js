@@ -27,3 +27,4 @@ function checkGuess() {
 }
 
 loadCharacterOfTheDay();
+console.log("❤️ Merci de jouer à Kingdomdle !");
